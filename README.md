@@ -13,6 +13,7 @@ Full-time, part-time (Remote, office)
 ***
 ### Контакты
 - [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/und3rd0gg) 
+- [LinkedIn](https://www.linkedin.com/in/alexandr-o-832096198/)
 - [E-MAIL](mailto:und3rd099@gmail.com)
 ***
 ## Stack
