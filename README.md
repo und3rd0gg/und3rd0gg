@@ -17,8 +17,9 @@ Full-time, part-time (Remote, office)
 - [E-MAIL](mailto:und3rd099@gmail.com)
 ***
 ## Stack
-- **C#:** Умею разрабатывать и воплощать алгоритмы, следуя принципам SOLID; Знаю и умею применять следующие паттерны проектирования: Template Method, Factory Method, Singleton, DI, Observer, Visitor, Decorator, State, StateMachine, Behavior Tree.
-- **Unity:** знаю API движка unity и умею эффективно его применять. 
+- **C#:** Умею разрабатывать и воплощать алгоритмы, следуя принципам SOLID; Знаю и умею применять следующие паттерны проектирования: Template Method, Factory Method, Singleton, ServiceLocator, Observer, Visitor, Decorator, State, StateMachine, Behavior Tree.
+- **Unity:** знаю API движка unity и умею эффективно его применять. Умею создавать скрипты для редактора, тулы для геймдизайнеров.
+- **DI:** Zenject, Reflex
 - **Animation:** Animator, Mixamo, IK, DOTween
 - **AI** NavMesh, Agents, StateMachine, A*
 - **Object Pooling**
