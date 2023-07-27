@@ -5,7 +5,7 @@ Full-time, part-time (Remote, office)
 
 **English** - B1; **Russian** - Native; **Ukrainian** - Native; **German** - A2
 
-Общий опыт работы - 3 года; Геймдев - 0.5 года;
+Общий опыт работы - 3 года; Геймдев - 1.5 года;
 
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
