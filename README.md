@@ -11,12 +11,12 @@ Full-time, part-time (Remote, office)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ***
-### Контакты
+### Контакты 📞
 - [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/und3rd0gg) 
 - [LinkedIn](https://www.linkedin.com/in/alexandr-o-832096198/)
 - [E-MAIL](mailto:und3rd099@gmail.com)
 ***
-## Stack
+## Stack ⌨️
 - **C#:** Умею разрабатывать и воплощать алгоритмы, следуя принципам SOLID; Знаю и умею применять следующие паттерны проектирования: Template Method, Factory Method, Singleton, ServiceLocator, Observer, Visitor, Decorator, State, StateMachine, Behavior Tree.
 - **Unity:** знаю API движка unity и умею эффективно его применять. Умею создавать скрипты для редактора, тулы для геймдизайнеров.
 - **DI:** Zenject, Reflex
