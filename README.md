@@ -17,18 +17,23 @@ Full-time, part-time (Remote, office)
 - [E-MAIL](mailto:und3rd099@gmail.com)
 ***
 ## Stack ⌨️
-- **C#:** Умею разрабатывать и воплощать алгоритмы, следуя принципам SOLID; Знаю и умею применять следующие паттерны проектирования: Template Method, Factory Method, Singleton, ServiceLocator, Observer, Visitor, Decorator, State, StateMachine, Behavior Tree.
-- **Unity:** знаю API движка unity и умею эффективно его применять. Умею создавать скрипты для редактора, тулы для геймдизайнеров.
-- **DI:** Zenject, Reflex
-- **Animation:** Animator, Mixamo, IK, DOTween
-- **AI** NavMesh, Agents, StateMachine, A*
-- **Object Pooling**
-- **UI:** ugui: Адаптивная верстка под разные девайсы, анимации, партиклы.
-- **HTML/CSS Basics, XML YAML JSON (serialization/deserialization), markdown**
-- **Git**
-- **Adobe Photoshop** - подгонка спрайтов, несложный дизайн UI, корректировка ассетов и.т.д
+- **C#:** Умею разрабатывать алгоритмы, следуя принципам SOLID; Умею применять
+следующие паттерны проектирования: Template Method, Factory Method, Singleton,
+ServiceLocator, Builder, Observer, Visitor, Decorator, State, StateMachine, Behavior
+Tree, Object Pool. 
+- **Unity:** знаю API движка unity и умею эффективно его применять. Умею создавать
+скрипты для редактора, тулы для геймдизайнеров (IMGUI, Odin). Есть небольшой
+опыт в написании SDK для WebGL платформ. 
+- **Math:** Линейная алгебра, дискретная математика. 
+- **DI:** Zenject, VContainer, Init(args). 
+- **Animation:** Animator, Mixamo, IK, DOTween. AI: NavMesh, Agents, StateMachine, A*. 
+- **UI:** ugui: Адаптивная верстка под разные девайсы, анимации, партиклы. 
+- **JS/TS/HTML/CSS Basics, XML YAML JSON (serialization/deserialization), markdown.**
+- **Git** gitflow и другие методологии ветвления, Unity collab, Plastic SCM.
+- **Adobe Photoshop**Adobe Photoshop, Affinity Photo, Aseprite - подгонка спрайтов, несложный дизайн UI, корректировка ассетов и.т.д. 
 - **Adobe Premiere, Adobe After Effects:** basics
-- **Работал с ассетами:** ProBuilder, ProGrids, Cinemachine, Tilemap editor, Polybrush, Rayfire, ObiRope, etc.
+- **Работал с ассетами:** ProBuilder, ProGrids, Cinemachine, Tilemap editor, Polybrush,
+Rayfire, ObiRope, etc. 
 ***
 ## 🕹️ Проекты
 
